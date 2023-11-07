@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeodorStnv
-- 👀 I’m interested in Quality Assurance.
+- 👀 QA - Automation student.
 
 <!---
 TeodorStnv/TeodorStnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
